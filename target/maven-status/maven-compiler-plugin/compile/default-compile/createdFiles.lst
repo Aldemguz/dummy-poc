@@ -1,0 +1,12 @@
+io/plugbox/dummy/utils/BookRequest.class
+io/plugbox/dummy/exceptions/DummyException.class
+io/plugbox/dummy/exceptions/ApplicationException.class
+io/plugbox/dummy/DummyApplication.class
+io/plugbox/dummy/model/Book.class
+io/plugbox/dummy/config/WebConfig.class
+io/plugbox/dummy/utils/Utilities.class
+io/plugbox/dummy/constants/Constants.class
+io/plugbox/dummy/controller/AppController.class
+io/plugbox/dummy/controller/BookController.class
+io/plugbox/dummy/service/BookService.class
+io/plugbox/dummy/repository/BookRepository.class

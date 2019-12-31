@@ -1,0 +1,24 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "${artifactory.docker.server}/${product.artifactory.docker}:${project.version}",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 8080,
+      "HostPort": 8080
+    },
+    {
+      "ContainerPort": 9000,
+      "HostPort": 9000
+    }
+  ],
+  "Volumes": [
+    {
+      "HostDirectory": "/var/app/current/dummy",
+      "ContainerDirectory": "/opt/plugbox-dummy/dummy"
+    }
+  ],
+  "Logging": "/opt/plugbox-dummy/dummy/logs/"
+}

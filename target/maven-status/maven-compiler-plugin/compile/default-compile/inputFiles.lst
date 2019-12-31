@@ -1,0 +1,12 @@
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/utils/BookRequest.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/exceptions/ApplicationException.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/utils/Utilities.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/constants/Constants.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/service/BookService.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/model/Book.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/config/WebConfig.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/controller/AppController.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/controller/BookController.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/repository/BookRepository.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/DummyApplication.java
+/home/aldemaro/BUCARES/PLUGBOX/dummy/src/main/java/io/plugbox/dummy/exceptions/DummyException.java
